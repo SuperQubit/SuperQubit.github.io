@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/common.dart","charts_flutter|lib/src/behaviors/chart_behavior.dart","charts_flutter|lib/src/base_chart.dart","charts_flutter|lib/src/base_chart_state.dart","charts_flutter|lib/src/cartesian_chart.dart","charts_flutter|lib/src/selection_model_config.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

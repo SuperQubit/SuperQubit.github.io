@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","charts_common|lib/src/common/graphics_factory.dart","charts_common|lib/src/chart/common/chart_canvas.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

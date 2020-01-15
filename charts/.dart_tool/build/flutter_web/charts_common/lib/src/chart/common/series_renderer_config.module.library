@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/common/symbol_renderer.dart","charts_common|lib/src/common/typed_registry.dart","charts_common|lib/src/chart/common/series_renderer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

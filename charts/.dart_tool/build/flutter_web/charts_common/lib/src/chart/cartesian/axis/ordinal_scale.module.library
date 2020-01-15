@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/chart/cartesian/axis/ordinal_scale_domain_info.dart","charts_common|lib/src/chart/cartesian/axis/scale.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

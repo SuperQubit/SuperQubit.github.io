@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/common/text_measurement.dart","charts_common|lib/src/common/text_style.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

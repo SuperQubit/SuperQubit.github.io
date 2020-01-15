@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/common.dart","charts_flutter|lib/src/util/color.dart","flutter|lib/widgets.dart","flutter|lib/material.dart","charts_flutter|lib/src/symbol_renderer.dart","charts_flutter|lib/src/behaviors/legend/legend.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

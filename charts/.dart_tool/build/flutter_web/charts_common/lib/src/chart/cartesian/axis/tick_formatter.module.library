@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["intl|lib/intl.dart","charts_common|lib/src/chart/common/datum_details.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

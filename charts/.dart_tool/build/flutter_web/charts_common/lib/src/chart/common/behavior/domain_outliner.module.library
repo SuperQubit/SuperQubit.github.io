@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/common.dart","charts_common|lib/src/chart/common/base_chart.dart","charts_common|lib/src/chart/common/processed_series.dart","charts_common|lib/src/chart/common/selection_model/selection_model.dart","charts_common|lib/src/chart/common/behavior/chart_behavior.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

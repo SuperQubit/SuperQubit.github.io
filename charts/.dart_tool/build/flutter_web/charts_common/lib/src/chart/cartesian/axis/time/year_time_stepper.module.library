@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/common/date_time_factory.dart","charts_common|lib/src/chart/cartesian/axis/time/base_time_stepper.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

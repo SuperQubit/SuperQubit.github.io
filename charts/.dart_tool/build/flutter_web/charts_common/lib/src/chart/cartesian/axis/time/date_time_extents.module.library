@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","charts_common|lib/src/chart/cartesian/axis/scale.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

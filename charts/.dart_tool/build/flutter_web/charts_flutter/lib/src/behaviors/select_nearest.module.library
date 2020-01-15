@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/common.dart","meta|lib/meta.dart","charts_flutter|lib/src/behaviors/chart_behavior.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

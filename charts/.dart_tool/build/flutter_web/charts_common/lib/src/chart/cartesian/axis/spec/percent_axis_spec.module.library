@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","intl|lib/intl.dart","charts_common|lib/src/chart/cartesian/axis/numeric_extents.dart","charts_common|lib/src/chart/cartesian/axis/spec/axis_spec.dart","charts_common|lib/src/chart/cartesian/axis/spec/numeric_axis_spec.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

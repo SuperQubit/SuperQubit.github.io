@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter|lib/material.dart","example|lib/gallery_scaffold.dart","example|lib/a11y/domain_a11y_explore_bar_chart.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

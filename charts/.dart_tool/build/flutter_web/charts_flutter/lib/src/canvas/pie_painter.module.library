@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["flutter|lib/material.dart","charts_common|lib/common.dart","charts_flutter|lib/src/canvas/circle_sector_painter.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

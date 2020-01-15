@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/common/gesture_listener.dart","charts_common|lib/src/chart/common/base_chart.dart","charts_common|lib/src/chart/common/behavior/chart_behavior.dart","charts_common|lib/src/chart/common/behavior/a11y/a11y_node.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

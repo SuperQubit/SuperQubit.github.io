@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/common.dart","flutter|lib/widgets.dart","charts_flutter|lib/src/line_style.dart","charts_flutter|lib/src/text_element.dart","charts_flutter|lib/src/text_style.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

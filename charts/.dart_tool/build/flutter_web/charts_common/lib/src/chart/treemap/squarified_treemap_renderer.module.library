@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/chart/layout/layout_view.dart","charts_common|lib/src/data/tree.dart","charts_common|lib/src/chart/treemap/base_treemap_renderer.dart","charts_common|lib/src/chart/treemap/treemap_renderer_config.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","math"],"hasMain":false}

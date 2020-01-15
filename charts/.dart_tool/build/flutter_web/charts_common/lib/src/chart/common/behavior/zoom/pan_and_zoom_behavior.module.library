@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","charts_common|lib/src/chart/common/behavior/zoom/pan_behavior.dart","charts_common|lib/src/chart/common/behavior/zoom/panning_tick_provider.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

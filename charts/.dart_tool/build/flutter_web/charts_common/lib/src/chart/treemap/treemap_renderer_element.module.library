@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["charts_common|lib/src/chart/common/chart_canvas.dart","charts_common|lib/src/chart/common/processed_series.dart","charts_common|lib/src/common/color.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}
